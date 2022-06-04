@@ -14,7 +14,7 @@ The process of image processing.
 
 ## Requirement
 
-This project Using pipenv create Virtual env. Please install pipenv at first.
+This project using pipenv creates Virtual env. Please install pipenv at first.
 
 ```bash
 $ pip install pipenv
