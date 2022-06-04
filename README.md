@@ -6,6 +6,10 @@ Input Application by recognizing hand using OpenCV.
 
 The process of image processing.
 
+<img src="https://github.com/to-jiki/HandRcgInput/blob/main/img/process1.png" height="50%" width = "50%" >
+<img src="https://github.com/to-jiki/HandRcgInput/blob/main/img/process.png" height="50%" width = "50%" >
+
+
 ## Requirement
 
 This project Using pipenv create Virtual env. Please install pipenv at first.
