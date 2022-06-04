@@ -2,6 +2,8 @@
 
 Input Application by recognizing hand using OpenCV.
 
+<img src="https://github.com/to-jiki/HandRcgInput/blob/main/img/demo.png" height="50%" width = "50%" >
+
 ## Process
 
 The process of image processing.
@@ -9,7 +11,6 @@ The process of image processing.
 <img src="https://github.com/to-jiki/HandRcgInput/blob/main/img/process1.png" height="50%" width = "50%" >
 
 <img src="https://github.com/to-jiki/HandRcgInput/blob/main/img/process2.png" height="50%" width = "50%" >
-
 
 ## Requirement
 
@@ -28,7 +29,8 @@ $ pipenv install
 ## Usage
 
 ```bash
-python finger.py
+$ pipenv shell    (Enter virtual env)
+$ python finger.py
 ```
 
 Window will appear.
